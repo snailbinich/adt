@@ -1,5 +1,6 @@
-.btn-primary[disabled] {
-  color: #ffffff;
-  background-color: #0044cc;
-  *background-color: #003bb3;
-}
+
+button.btn i {visibility: hidden}
+button.active i {visibility: visible ;}
+
+
+.tab-content{overflow: auto;width:99%;height: 460px;}
