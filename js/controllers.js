@@ -1,0 +1,3 @@
+function DefaultCtrl($scope){
+    
+}
