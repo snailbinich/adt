@@ -9,7 +9,7 @@
         "local_path":"index.html"
     }
   },
-  "icons":{"16":"ele_ice.png"},
+  "icons":{"128":"img/tools.png"},
   "permissions":[
     "<all_urls>"
    ] 
