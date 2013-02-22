@@ -1,0 +1,18 @@
+{
+  "manifest_version":2,
+  "name":"Api Development Tool",
+  "description": "A tool helps to develop http api",
+  "version":"0.1",
+
+  "app":{
+    "launch":{
+        "local_path":"index.html"
+    }
+  },
+  "icons":{"16":"ele_ice.png"},
+  "permissions":[
+    "<all_urls>"
+   ] 
+
+  
+}
